@@ -7,6 +7,9 @@ Hello i am Samuli. Studying information technology and business at Jyväskylä u
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,js,py,github,flask,windows,bash,vite,docker,figma,git,arch,ai,html,css,npm,nodejs,vscode,powershell,ps,wordpress,flutter&perline=3)](https://skillicons.dev)
 
+## Some projects
+Web-site which i have done. Work on progress. https://www.lakalaooppera.fi/
+
 <!--
 **hoitsi/hoitsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
